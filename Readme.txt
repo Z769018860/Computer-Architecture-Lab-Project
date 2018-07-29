@@ -4,7 +4,7 @@ AXI with random delay
 32-entry TLB
 exception and interruption support
 CP0 
-hand write Multiplier and Divider
+hand-written Multiplier and Divider
 compeleted with my teammate Junting Chen
 部分文件说明：
 	mycpu._top.v  CPU顶层模块，使用AXI 接口， 调用类sram接口和CPU主模块
