@@ -1,5 +1,5 @@
 MIPS CPU:
-5 stage pipeline
+5 stages pipeline
 AXI with random delay
 32-entry TLB
 exception and interruption support
