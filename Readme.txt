@@ -5,7 +5,7 @@ AXI with random delay
 exception and interruption support
 CP0 
 hand write Multiplier and Divider
-compelete with Junting Chen
+compeleted with my teammate Junting Chen
 部分文件说明：
 	mycpu._top.v  CPU顶层模块，使用AXI 接口， 调用类sram接口和CPU主模块
 	new_myinterface.v 类sram接口
